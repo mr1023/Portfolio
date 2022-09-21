@@ -1,7 +1,8 @@
 # Portfolio
-Projects portfolio
-This is my portfolio of projects conceived and executed by me. 
-Any critical or sensitive data has been blurred. 
+These projects sought (still do in the company) to provide a solution to a problem. 
+My main interest was (is) to get data, orderly, and automate as much as possible to focus on things that could not (yet) be automated or required more attention.
+Some problems were more challenging than others, and the satisfaction of watching them run smoothly was proportional to the size problem. 
+
 
 1. Power Automate projects
   - Leave requests approval flows (triggered via SharePoint list and / or via PowerApps)
@@ -33,3 +34,7 @@ Any critical or sensitive data has been blurred.
 
 5. R projects
   - Time series analysis for reworks management 
+
+
+Disclaimer: Any critical or sensitive data has been blurred out of confidentiality. 
+I want to share as much as possible, without giving away any critical information. 
