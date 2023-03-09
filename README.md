@@ -59,7 +59,7 @@ Some problems were more challenging than others, and the satisfaction of watchin
   ![Slide14](https://user-images.githubusercontent.com/85533464/224118823-107f85ca-48f8-4683-86a2-60cee1dd3ac6.JPG)
   
   
-  - Time & activity visualization & management
+  - Time & activity visualization & management 
   ![Slide15](https://user-images.githubusercontent.com/85533464/224118710-6e0cd104-ad5e-4473-85ee-0ad8581a2df5.JPG)
   ![Slide16](https://user-images.githubusercontent.com/85533464/224118723-7148177a-f1da-454f-9535-4767d42af7be.JPG)
   ![Slide17](https://user-images.githubusercontent.com/85533464/224118774-2599f7d4-e94b-4ace-8b9c-0eec63889bf4.JPG)
