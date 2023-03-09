@@ -73,7 +73,7 @@ Some problems were more challenging than others, and the satisfaction of watchin
 
 
 4. Python projects
-  - SPC for rubber industry
+  - [SPC for rubber industry](https://github.com/mr1023/SPC)
   - Production analysis
   - Quality control (MLP)
 
