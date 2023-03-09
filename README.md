@@ -78,7 +78,9 @@ Some problems were more challenging than others, and the satisfaction of watchin
   - Quality control (MLP)
 
 5. R projects
-  - Time series analysis for reworks management 
+  - Time series analysis for reworks management
+  ![STL 2022_10](https://user-images.githubusercontent.com/85533464/224121595-cdf7ab1a-1f7f-4d24-a5cf-3b527965845d.png)
+
 
 
 Disclaimer: Any critical or sensitive data has been blurred out of confidentiality. 
